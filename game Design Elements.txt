@@ -1,0 +1,64 @@
+Game Design Elements
+
+1.Characters 
+
+a.Non Playing Characters 
+
+The Characters that are controlled by the computer is called Non Playing Character.
+
+Eg:- The four ghosts in the pacman game
+
+b.Playing Characters
+
+The Characters that are controlled by the user is called Playing Character.
+
+Eg:-Pacman
+
+2.Goal 
+
+The Objective For the Player to complete the game is called A Goal
+
+Eg:- To Eat all the food in pacman
+
+3.Rules 
+
+The rules in the game to play is called rules
+
+Eg:-Behavior of the enemies and pacman,obstacles,lives,score etc;
+
+4.Balance the rules
+
+making the game balanced ie: making it nor too difficult neither too easy
+
+Eg;:- speed variation of the Ghosts , no of ghosts and power pellets,and the no of obstacles and escape openings
+
+5.Adaptivity
+
+making the game difficult as we progress in the game to increase the exitement level of the user
+
+Eg:- making the food few as we eat it we cant even get close to the fewer food,lives of the pacman
+
+6.Chances and skill
+
+Chances are the lucky oppurtunities for us to win the game
+Skill is or strategy built up by the player for playing the game
+
+Eg:-chances are : the escape walls and the power pellets
+    Skills are the stratergy used by the player in the arrow keys
+
+7.FeedBack
+
+the current position of the player in the Game is called feedback
+
+Eg: the Sound ,the lives , powerups etc;
+
+8.Story
+
+A story line BEHIND THE GAME BUILTD UP BY THE USER,MAKER OF THE GAME ,OR THE GAME IT SELF, that can be understood while playing the game.
+
+Eg:- pacman is Hungry and is running for food but the ghost shaped watchmens are not letting him do so.
+
+  
+
+
+
